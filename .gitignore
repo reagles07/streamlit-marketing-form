@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Streamlit app data (do not track)
+requests.csv
+
+# Your local virtual env
+streamlittest/
+
